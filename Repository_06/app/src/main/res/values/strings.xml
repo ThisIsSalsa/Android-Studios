@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Repository_06</string>
+    <string-array name="themes_array">
+        <item>Default</item>
+        <item>Dark theme</item>
+        <item>Light theme</item>
+    </string-array>
+</resources>
